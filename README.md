@@ -40,3 +40,6 @@ https://discord.com/developers/applications
 https://platform.openai.com/account/api-keys
 ![螢幕擷取畫面 2023-04-11 220010](https://user-images.githubusercontent.com/85166729/231187111-5e62457b-5d8c-472e-9a58-a64e5a0ccc92.png)
 
+
+### Discordbot api
+https://discordpy.readthedocs.io/en/stable/api.html
