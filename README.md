@@ -7,4 +7,4 @@
 
 -Vscode--https://code.visualstudio.com/
 
-/
+-requirement.txt
