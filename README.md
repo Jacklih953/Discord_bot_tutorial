@@ -8,3 +8,14 @@
 -Vscode--https://code.visualstudio.com/
 
 -requirement.txt
+
+###Anaconda Prompt 指令
+
+-conda create -n "環境名字" python=3.9  
+
+-conda activate "環境名字"
+
+### Pip 指令
+
+-pip install -r requirement.txt
+
